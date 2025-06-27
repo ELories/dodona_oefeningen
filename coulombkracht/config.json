@@ -1,0 +1,10 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "name": "Coulombkracht",
+  "description": "description.md",
+  "judge": "python",
+  "evaluation": {
+    "handler": "evaluation/test.py"
+  }
+}
