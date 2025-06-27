@@ -1,10 +1,9 @@
-{
-  "type": "exercise",
+{ "type": "exercise",
   "programming_language": "python",
   "name": "coulombkracht",
   "description": "description.md",
   "judge": "python",
   "evaluation": {
     "handler": "evaluation/test.py"
-  }
+  }
 }
