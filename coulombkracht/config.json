@@ -1,7 +1,7 @@
 {
   "type": "exercise",
   "programming_language": "python",
-  "name": "Coulombkracht",
+  "name": "coulombkracht",
   "description": "description.md",
   "judge": "python",
   "evaluation": {
