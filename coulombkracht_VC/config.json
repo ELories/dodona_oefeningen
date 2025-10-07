@@ -8,5 +8,9 @@
   "access": "public",
   "judge": "python",
   "input_type": "none",
-  "output_type": "stdout"
+  "output_type": "stdout",
+  "internals": {
+    "token": "WxpVrMFuG8tTkYcuGbiUBidt-TS2i7aFRf9mIKN4WiqIU8BKd5ViPqbT8jEdI8BX",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
