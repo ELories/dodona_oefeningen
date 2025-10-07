@@ -1,0 +1,12 @@
+{
+  "type": "exercise",
+  "name": "Coulombkracht berekenen",
+  "description": {
+    "nl": "Bereken de kracht tussen twee ladingen volgens de wet van Coulomb."
+  },
+  "programming_language": "python",
+  "access": "public",
+  "judge": "python",
+  "input_type": "none",
+  "output_type": "stdout"
+}
