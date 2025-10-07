@@ -1,6 +1,6 @@
 {
   "type": "exercise",
-  "name": "Coulombkracht berekenen",
+  "name": coulombkracht",
   "description": {
     "names": {
       "nl": "Coulombkracht",
