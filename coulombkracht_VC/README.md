@@ -1,17 +1,20 @@
+
 # Coulombkracht berekenen
 
-Volgens de wet van Coulomb geldt:
+De elektrische kracht tussen twee puntladingen wordt gegeven door:
 
-**F = k * |q1 * q2| / r²**
+$$
+F = k \cdot \frac{|q_1 \cdot q_2|}{r^2}
+$$
 
 waarbij:
-- `k = 8.99 × 10⁹ Nm²/C²`
-- `q1` en `q2` zijn de ladingen in Coulomb
-- `r` is de afstand in meter
+$$
+- \( k = 8{,}99 \times 10^9 \ \text{Nm}^2/\text{C}^2 \)
+- \( q_1 = 2{,}0 \times 10^{-6} \ \text{C} \)
+- \( q_2 = 3{,}0 \times 10^{-6} \ \text{C} \)
+- \( r = 0{,}05 \ \text{m} \)
+$$
 
-Schrijf een programma dat de kracht berekent voor:
-- `q1 = 2.0e-6 C`
-- `q2 = 3.0e-6 C`
-- `r = 0.050 m`
+Schrijf een programma dat de kracht berekent en print:
 
-Print enkel de waarde van de kracht in Newton.
+**De elektrische kracht is gelijk aan ... N**
