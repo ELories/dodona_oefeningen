@@ -1,6 +1,6 @@
 {
   "type": "exercise",
-  "name": "Coulombkracht berekenen",
+  "name": "coulombkracht_VC",
   "description": {
     "nl": "Bereken de kracht tussen twee ladingen volgens de wet van Coulomb."
   },
