@@ -16,4 +16,4 @@ waarbij:
 
 Schrijf een programma dat de kracht berekent en afrondt op 2 decimalen en print:
 
-**De elektrische kracht is gelijk aan ... N**
+**De elektrische kracht is gelijk aan ... N.**
