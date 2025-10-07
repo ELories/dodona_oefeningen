@@ -2,7 +2,10 @@
   "type": "exercise",
   "name": "coulombkracht_VC",
   "description": {
-    "nl": "Bereken de kracht tussen twee ladingen volgens de wet van Coulomb."
+    "names": {
+      "nl": "Coulombkracht",
+      "en": "Coulomb force"
+    }
   },
   "programming_language": "python",
   "access": "public",
