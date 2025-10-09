@@ -1,5 +1,0 @@
-- tab: "coulombkracht"
-  testcases:
-    - expression: "coulombkracht(5, 6, 2)"
-      return: 67425000000.0
-  
