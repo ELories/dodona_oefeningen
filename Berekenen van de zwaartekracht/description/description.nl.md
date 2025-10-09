@@ -1,10 +1,10 @@
-Bereken de grootte van de zwaartekracht:
+Bereken de grootte van de zwaartekracht (op 2 cijfers na de komma):
 
 $$
 F_z = m \cdot g
 $$
 
-voor een voorwerp met een massa van \( m = 80 \,\text{kg} \) waarbij \( g = 9.81 \,\text{N/kg} \).
+voor een voorwerp met een massa van 80 kg waarbij g = 9.81 N/kg.
 
 Geef de output weer als:
 
