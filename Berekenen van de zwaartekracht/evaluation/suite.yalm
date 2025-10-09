@@ -1,8 +1,3 @@
 - tab: "Berekenen van de zwaartekracht"
-description: "Test voor zwaartekrachtberekening"
-contexts:
-  - name: "Standaard test"
-    testcases:
-      - expression: |
-          # Verwachte uitvoer exact vergelijken
-          output == "De zwaartekracht is gelijk aan 784.80 N/kg"
+  testcases:
+    - stdout: "De zwaartekracht is gelijk aan 784.80 N/kg."
