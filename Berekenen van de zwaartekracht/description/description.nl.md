@@ -1,4 +1,4 @@
-Bereken de grootte van de zwaartekracht (op 2 cijfers na de komma):
+Bereken de grootte van de zwaartekracht (rondt af op een geheel getal):
 
 $$
 F_z = m \cdot g
@@ -8,4 +8,4 @@ voor een voorwerp met een massa van 80 kg waarbij g = 9.81 N/kg. Gebruik hiervoo
 
 Geef de output weer als:
 
-**De zwaartekracht is gelijk aan ... N**
+**De zwaartekracht is gelijk aan ... N.**
