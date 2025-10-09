@@ -1,3 +1,4 @@
+- tab: "Berekenen van de zwaartekracht"
 description: "Test voor zwaartekrachtberekening"
 contexts:
   - name: "Standaard test"
