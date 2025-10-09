@@ -1,19 +1,15 @@
 {
-  "type": "exercise",
-  "name": "coulombkracht",
   "description": {
     "names": {
-      "nl": "Coulombkracht",
-      "en": "Coulomb force"
+      "en": "Coulombforce",
+      "nl": "Coulombkracht"
     }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
   },
   "programming_language": "python",
   "access": "private",
-  "judge": "python",
-  "input_type": "none",
-  "output_type": "stdout",
-  "internals": {
-    "token": "v_QcsewbpIkvNvFm-MzXIcUhqM4MnIXvyrBCQYhzwa_ARAf5T2WSBvwaTV2TNrGh",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
