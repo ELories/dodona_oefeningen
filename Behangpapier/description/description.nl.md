@@ -2,4 +2,5 @@ Om te berekenen hoeveel rollen behangpapier er nodig zijn om een muur te behange
 de muur weten en de afmetingen van het behangpapier. Een rol behangpapier is meestal 10 meter lang en 52 cm breed.
 
 Schrijf een programma die berekend hoeveel rollen behangpapier je nodig hebt voor een lengte van 25 meter en een hoogte van 2,5 meter.
-De output heeft als vorm: Je hebt ... rollen behangpapier nodig.
+
+*De output heeft als vorm: Je hebt ... rollen behangpapier nodig.*
