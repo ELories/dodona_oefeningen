@@ -3,7 +3,7 @@ de muur weten en de afmetingen van het behangpapier. Een rol behangpapier is mee
 
 Schrijf een programma die berekend hoeveel rollen behangpapier je nodig hebt voor een lengte van 25 meter en een hoogte van 2,5 meter. Bereken ook de kostprijs.
 
-*De output heeft twee regels*
+*De output heeft twee regels:*
 
 - Je hebt ... rollen behangpapier nodig.
 - De kostprijs bedraagt ... .
