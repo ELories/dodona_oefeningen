@@ -1,8 +1,10 @@
-De oppervlakte van 
+Gegeven is een rechthoekige driehoek met een basis van 5,0 cm en een hoogte van 8,0 cm. 
 
-Schrijf een programma die berekend hoeveel rollen behangpapier je nodig hebt voor een lengte van 25 meter en een hoogte van 2,5 meter. Bereken ook de kostprijs. Gebruik variabelen en noteer minstens 1 regel commentaar.
+De oppervlakte van de driehoek is $\frac{b.h}{2}$. De omtrek is $b + h + c$, met $c$ de schuine zijde.
+
+Schrijf een programma die de omtrek (afgerond op 1 mm) en de oppervlakte (afgerond op mm²) berekend van de rechthoekige driehoek. Gebruik variabelen en noteer minstens 1 regel commentaar.
 
 *De output heeft twee regels:*
 
-- Je hebt ... rollen behangpapier nodig.
-- De kostprijs bedraagt ... euro.
+- De omtrek van de driehoek is gelijk aan ... cm.
+- De oppervlakte van de driehoek is gelijk aan ... cm².
