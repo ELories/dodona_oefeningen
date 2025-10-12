@@ -1,0 +1,3 @@
+- tab: "Behangpapier"
+  testcases:
+    - stdout: "Je moet 12 rollen behangpapier kopen.\nDe kostprijs bedraagt 299.4 euro."
