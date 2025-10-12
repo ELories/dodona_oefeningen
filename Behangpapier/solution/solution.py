@@ -7,4 +7,4 @@ prijs_rol=24.95
 aantal_rollen=lengte*hoogte//(lengte_rol*hoogte_rol)
 prijs=aantal_rollen*prijs
 print("Je moet", round(aantal_rollen), "rollen behangpapier kopen.")
-print("De kostprijs bedraagt", prijs.)
+print("De kostprijs bedraagt", prijs, "euro.")
