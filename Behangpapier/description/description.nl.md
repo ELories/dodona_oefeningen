@@ -6,4 +6,4 @@ Schrijf een programma die berekend hoeveel rollen behangpapier je nodig hebt voo
 *De output heeft twee regels:*
 
 - Je hebt ... rollen behangpapier nodig.
-- De kostprijs bedraagt ... .
+- De kostprijs bedraagt ... euro.
