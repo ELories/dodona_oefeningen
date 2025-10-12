@@ -1,3 +1,3 @@
 - tab: "Oppervlakte driehoek"
   testcases:
-    - stdout: "De omtrek van de driehoek bedraagt 22.4 cm.\nDe oppervlakte van de driehoek bedraagt 20 cm²."
+    - stdout: "De omtrek van de driehoek is gelijk aan 22.4 cm.\nDe oppervlakte van de driehoek is gelijk aan 20 cm²."
