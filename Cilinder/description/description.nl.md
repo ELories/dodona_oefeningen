@@ -8,4 +8,4 @@ $$ V = A . h $$
 Gebruik variabelen en noteer 1 regel commentaar.
 
 *De output is van de vorm*
-- Het volume bedraagt .. cm³.
+- Het volume is .. cm³.
