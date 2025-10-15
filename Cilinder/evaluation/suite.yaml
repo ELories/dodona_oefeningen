@@ -1,1 +1,3 @@
-
+- tab: "Cilinder"
+  testcases:
+    - stdout: Het volume is gelijk aan 753,980 cm³."
