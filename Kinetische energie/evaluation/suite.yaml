@@ -1,3 +1,3 @@
 - tab: "Kinetische energie"
   testcases:
-    - stdout: "De snelheid is 4,99 meter per seconde."
+    - stdout: "De snelheid is 4.99 meter per seconde."
