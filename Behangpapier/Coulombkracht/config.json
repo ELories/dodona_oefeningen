@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Coulombforce",
+      "nl": "Coulombkracht"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private"
+}
