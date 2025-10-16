@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Discriminant",
+      "nl": "Discriminant"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private"
+}
