@@ -1,6 +1,6 @@
-Bereken de discriminant afgerond op 1 cijfer na de komma voor volgende vergelijking:
+Bereken de discriminant afgerond op een geheel getal voor volgende vergelijking:
 
 $$ 2x² -4.x -6 = 0 $$
 
 *De output is van de vorm:*
-- De descriminant is gelijk aan ...
+- De discriminant is gelijk aan ...
