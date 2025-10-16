@@ -1,0 +1,3 @@
+- tab: "Discriminant"
+  testcases:
+    - stdout: De discriminant is gelijk aan 64.
