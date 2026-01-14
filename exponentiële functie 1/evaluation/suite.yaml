@@ -1,4 +1,3 @@
-
 - tab: "Testcases"
   units:
     - name: "Test 1: a = 5, x = 6"
@@ -19,4 +18,3 @@
         4
       output: |
         De bijhorende y-waarde is 8.2 en de asymptoot ligt op y = 10 .
-``
