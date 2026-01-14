@@ -1,8 +1,8 @@
 - tab: "exponentiële functie 1"
   testcases:
     - expression: "f(5, 6)"
-      return: 4.3
+      return: 4.9
     - expression: "f(5, 0)"
       return: 1.0
     - expression: "f(10, 4)"
-      return: 8.2
+      return: 9.6
