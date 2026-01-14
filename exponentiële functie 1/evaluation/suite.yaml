@@ -7,3 +7,16 @@
     - expression: "f(10, 4)"
       return: 9.6
 
+- tab: "exponentiële functie 1"
+  testcases:
+    - stdin: |
+        5
+        6
+      stdout: |
+        De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5 .
+    - stdin: |
+        10
+        4
+      stdout: |
+        De bijhorende y-waarde is 9.6 en de asymptoot ligt op y = 10 .
+
