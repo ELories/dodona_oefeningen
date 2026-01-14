@@ -1,0 +1,14 @@
+{
+  "description": {
+    "names": {
+      "en": "Exponential function 1",
+      "nl": "Exponentiële functie 1"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "private"
+}
