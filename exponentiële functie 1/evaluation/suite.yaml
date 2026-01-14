@@ -12,6 +12,6 @@
         return: 1.0
   - testcases:
       - stdin: "10\n4\n"
-        stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y=5.0.\n"
+        stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y=10.\n"
       - expression: "f(10, 4)"
         return: 9.6
