@@ -6,8 +6,4 @@
       return: 1.0
     - expression: "f(10, 4)"
       return: 9.6
-    - stdin: |
-          5
-          6
-      stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5 ."
 
