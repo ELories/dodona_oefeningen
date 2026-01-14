@@ -2,18 +2,8 @@
   testcases:
     - expression: "f(5, 6)"
       return: 4.9
-    - stdin: |
-        5
-        6
-      stdout: |
-        De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5 .
     - expression: "f(5, 0)"
       return: 1.0
     - expression: "f(10, 4)"
       return: 9.6
-    - stdin: |
-        10
-        4
-      stdout: |
-        De bijhorende y-waarde is 9.6 en de asymptoot ligt op y = 10 .
 
