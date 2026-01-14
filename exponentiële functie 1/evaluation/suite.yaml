@@ -1,6 +1,5 @@
-
 tabs:
-  - name: "Testcases"
+  - name: "exponentiële functie 1"
     units:
       - name: "Test 1: a = 5, x = 6"
         input: |
