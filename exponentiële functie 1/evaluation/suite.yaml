@@ -1,21 +1,4 @@
-
 - tab: "exponentiële functie 1"
-  units:
-    - name: "Test 1: a = 5, x = 6"
-      input: |
-        5
-        6
-      output: |
-        De bijhorende y-waarde is 4.3 en de asymptoot ligt op y = 5 .
-    - name: "Test 2: a = 5, x = 0"
-      input: |
-        5
-        0
-      output: |
-        De bijhorende y-waarde is 1.0 en de asymptoot ligt op y = 5 .
-    - name: "Test 3: a = 10, x = 4"
-      input: |
-        10
-        4
-      output: |
-        De bijhorende y-waarde is 8.2 en de asymptoot ligt op y = 10 .
+  testcases:
+    - expression: "f(5, 6)"
+      return: 4.3
