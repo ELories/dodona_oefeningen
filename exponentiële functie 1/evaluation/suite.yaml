@@ -1,4 +1,4 @@
 - tab: "exponentiële functie 1"
   testcases:
-    - expression: "f(5, 6)"
-      return: 4.3
+     - expression: "f(5, 6)"
+       stdout: "De bijhorende y-waarde is 1.0 en de asymptoot ligt op y = 5."
