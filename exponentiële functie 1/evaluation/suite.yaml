@@ -9,6 +9,5 @@
     - stdin: |
           5
           6
-      stdout: |
-          De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5 .
+      stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5 ."
 
