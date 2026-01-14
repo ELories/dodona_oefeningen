@@ -1,23 +1,21 @@
-# gecombineerde evaluation-suite:
-# - expression-tests voor de functie f(...)
-# - run-tests (stdin/stdout) voor de tekstoutput van het programma
-- tab: "exponentiële functie 1 - expressions"
-  testcases:
-    - expression: "f(5, 6)"
-      return: 4.9
-    - expression: "f(5, 0)"
-      return: 1.0
-    - expression: "f(10, 4)"
-      return: 9.6
+tabs:
+  - tab: "exponentiële functie 1 - expressions"
+    testcases:
+      - expression: "f(5, 6)"
+        return: 4.9
+      - expression: "f(5, 0)"
+        return: 1.0
+      - expression: "f(10, 4)"
+        return: 9.6
 
-- tab: "exponentiële functie 1 - program output"
-  testcases:
-    - run:
-        stdin: "5\n6\n"
-        stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y=5.0.\n"
-    - run:
-        stdin: "5\n0\n"
-        stdout: "De bijhorende y-waarde is 1.0 en de asymptoot ligt op y=5.0.\n"
-    - run:
-        stdin: "10\n4\n"
-        stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y=10.0.\n"
+  - tab: "exponentiële functie 1 - program output"
+    testcases:
+      - run:
+          stdin: "5\n6\n"
+          stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y=5.0.\n"
+      - run:
+          stdin: "5\n0\n"
+          stdout: "De bijhorende y-waarde is 1.0 en de asymptoot ligt op y=5.0.\n"
+      - run:
+          stdin: "10\n4\n"
+          stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y=10.0.\n"
