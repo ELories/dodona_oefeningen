@@ -2,16 +2,16 @@
   contexts:
   - testcases:
       - stdin: "5\n6\n"
-        stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y=5.0.\n"
+        stdout: "De bijhorende y-waarde is 4.9 en de asymptoot ligt op y = 5.0.\n"
       - expression: "f(5, 6)"
         return: 4.9
   - testcases:
       - stdin: "5\n0\n"
-        stdout: "De bijhorende y-waarde is 1.0 en de asymptoot ligt op y=5.0.\n"
+        stdout: "De bijhorende y-waarde is 1.0 en de asymptoot ligt op y = 5.0.\n"
       - expression: "f(5, 0)"
         return: 1.0
   - testcases:
       - stdin: "10\n4\n"
-        stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y=10.0.\n"
+        stdout: "De bijhorende y-waarde is 9.6 en de asymptoot ligt op y = 10.0.\n"
       - expression: "f(10, 4)"
         return: 9.6
